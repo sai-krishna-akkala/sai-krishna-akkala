@@ -1,12 +1,6 @@
 <!-- Banner with a clean data-themed background -->
 <p align="center">
 
-  <img src="https://drive.google.com/uc?export=view&id=1TG3OCIlHAz1Hlcf5MNsNOxKn9m7p9__g" 
-     alt="profile" 
-     style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" />
-
-
-
 </p>
 
 <h1 align="center">Hey there 👋, I'm Akkala Sai Krishna</h1>
