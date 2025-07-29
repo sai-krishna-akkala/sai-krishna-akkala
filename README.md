@@ -1,7 +1,8 @@
 <!-- Banner with a clean data-themed background -->
 <p align="center">
 
-  <img src="https://drive.google.com/uc?export=view&id=1TG3OCIlHAz1Hlcf5MNsNOxKn9m7p9__g" alt="banner" width="100%" />
+  <img src="https://drive.google.com/uc?export=view&id=1TG3OCIlHAz1Hlcf5MNsNOxKn9m7p9__g" alt="banner" style="width:200px; height:200px; border-radius: 50%;" />
+
 
 </p>
 
