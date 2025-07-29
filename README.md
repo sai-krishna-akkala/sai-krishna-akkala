@@ -1,6 +1,8 @@
 <!-- Banner with a clean data-themed background -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1556157382-97eda2d62296?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="banner" width="100%" />
+
+  <img src="https://drive.google.com/uc?export=view&id=1TG3OCIlHAz1Hlcf5MNsNOxKn9m7p9__g" alt="banner" width="100%" />
+
 </p>
 
 <h1 align="center">Hey there 👋, I'm Akkala Sai Krishna</h1>
